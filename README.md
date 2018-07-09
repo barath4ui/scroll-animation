@@ -2,6 +2,6 @@
 
 //Example
 
-<div class="animation-element"  data-animate = "bounceInRight animated">
-.............
-</div>
+//<div class="animation-element"  data-animate = "bounceInRight animated">
+//.............
+//</div>
